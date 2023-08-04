@@ -1,0 +1,6 @@
+[submodule "angular-lpda2"]
+	path = angular-lpda2
+	url = git@github.com:OlecsandrKirpa/lpda2-angular.git
+[submodule "rails-lpda2"]
+	path = rails-lpda2
+	url = git@github.com:OlecsandrKirpa/lpda2-rails.git
